@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DataDebunk
+- 👀 I’m interested in coding
+- 💞️ I’m looking for females
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a guy
+-  📫 How to reach me. (Coming Soon)
