@@ -1,7 +1,7 @@
 To install the latest AmongUs mod for Among Us, follow these steps:
 
 1. **Download the MalumMenu Zip Pack:**
-   Visit [insert link] to download the latest version of MalumMenu. Save the Zip file to a location you can easily access.
+  <a href="https://github.com/scp222thj/MalumMenu/releases/download/v2.2.0/MalumMenu-2.2.0.zip">Download</a>
 
 2. **Extract the Contents:**
    Open the downloaded Zip file and extract all its contents.
